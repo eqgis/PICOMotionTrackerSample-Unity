@@ -15,7 +15,7 @@ PICO 运动追踪示例是面向开发者展示使用 PICO 体感追踪器进行
 
 ## 了解更多
 
-有关演示的更多信息，请参阅[这篇文章]()。
+有关演示的更多信息，请参阅[这篇文章](https://developer-cn.picoxr.com/document/unity/motion-tracking-sample/)。
 
 ## LICENSE
 
