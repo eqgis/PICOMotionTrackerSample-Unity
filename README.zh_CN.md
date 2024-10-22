@@ -1,8 +1,10 @@
-# PICO Motion Tracker Sample Unity
+# PICO 体感追踪器示例
 
 中文README | [English](./README.md)
 
-## Development environment
+PICO 运动追踪示例是面向开发者展示使用 PICO 体感追踪器进行相关功能开发的技术示例，包括全身动捕和独立追踪。开发者可以通过示例在 PICO 设备上通过连接 PICO 体感追踪器，体验全身动捕和独立追踪功能的一些简单应用场景示例。为了更好的体验，此示例也使用了 PICO Avatar SDK 的部分功能。
+
+## 开发环境
 
 - SDK 版本: 3.0.0
 - PICO 设备系统版本: 5.11.0
@@ -11,11 +13,7 @@
 - App structure: 64-bit
 - Avatar SDK 版本: 2.0.0
 
-## Use the demo
-
-PICO运动跟踪器示例是一个开发者演示示例，展示了使用PICO运动追踪器的功能，包括全身运动捕捉和独立跟踪。开发人员可以通过连接PICO运动跟踪器在PICO设备上体验简单的应用场景（如全身运动捕捉和独立跟踪功能）。为了增强化身的用户体验，此示例还使用了PICO Avatar SDK的功能。
-
-## Learn more
+## 了解更多
 
 有关演示的更多信息，请参阅[这篇文章]()。
 
