@@ -2,6 +2,8 @@
 
 中文README | [English](./README.md)
 
+![Model](https://github.com/Pico-Developer/PICOMotionTrackerSample-Unity/blob/main/pico-motion-tracker-sample.jpg)
+
 PICO 运动追踪示例是面向开发者展示使用 PICO 体感追踪器进行相关功能开发的技术示例，包括全身动捕和独立追踪。开发者可以通过示例在 PICO 设备上通过连接 PICO 体感追踪器，体验全身动捕和独立追踪功能的一些简单应用场景示例。为了更好的体验，此示例也使用了 PICO Avatar SDK 的部分功能。
 
 ## 开发环境
