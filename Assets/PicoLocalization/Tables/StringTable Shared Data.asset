@@ -1,0 +1,485 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: StringTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: StringTable
+  m_TableCollectionNameGuidString: 1a283b417858a274f988939f8f4747d2
+  m_Entries:
+  - m_Id: 94854851167301653
+    m_Key: 2D Recorder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94854851167301656
+    m_Key: Align Ground
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97479743746387968
+    m_Key: VST Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94948490618908672
+    m_Key: Auto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94854851167301646
+    m_Key: Auto Recording
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94854851167301654
+    m_Key: Avata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104699512736231424
+    m_Key: Avatar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104697205768368128
+    m_Key: Avatar Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98838818300145664
+    m_Key: Awalys show
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97479953331564544
+    m_Key: Background Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107686873287929856
+    m_Key: Body Tracking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94854851167301639
+    m_Key: Calibrate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94854851167301641
+    m_Key: Calibrate Now
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107181637259538432
+    m_Key: Calibrated
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107181673447993344
+    m_Key: Calibration Expired
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107174864817532928
+    m_Key: 'Calibration Status:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110520917344169984
+    m_Key: Colorful island
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107174655400128512
+    m_Key: 'Connected Count:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94854851167301649
+    m_Key: Continue Without Calibration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110139096462831616
+    m_Key: Debug Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94854851167301635
+    m_Key: Display Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94854851154718720
+    m_Key: Earth Shatter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110200432936923136
+    m_Key: Envrionment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110148511358300160
+    m_Key: Fall Camera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104996482231087104
+    m_Key: Female Biker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104752751351476224
+    m_Key: Female Runner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94854851167301638
+    m_Key: Fixed Position
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94930318729719808
+    m_Key: Fixed Position(Back)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94930303256932352
+    m_Key: Fixed Position(Front)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94903775819247616
+    m_Key: Follow the View
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94930371817025536
+    m_Key: Following Position(Back)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94930349452996608
+    m_Key: Following Position(Front)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94903465147150336
+    m_Key: Full Body Tracking Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106815625737580544
+    m_Key: 'Full Body Tracking Mode - High accuracy '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94904093290311680
+    m_Key: Heel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94904017272745984
+    m_Key: Heel and Toe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 96397841614548992
+    m_Key: Heel and Toe  (Different)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 96397821985206272
+    m_Key: Heel and Toe (Same)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94854851167301643
+    m_Key: Height
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98838771592376320
+    m_Key: Hold grip key to show
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97898418945175552
+    m_Key: hold the grib key to display the ray
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106554480434917376
+    m_Key: Humanoid Robot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107686801468862464
+    m_Key: Independent Tracking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110520775652192256
+    m_Key: Indoor night
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94854851167301640
+    m_Key: Leg Tracking Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94854851167301633
+    m_Key: Magic Effect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104752895874609152
+    m_Key: Male DJ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105444174589636608
+    m_Key: Male Warrior
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94854851167301657
+    m_Key: Mirror
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110906573123792896
+    m_Key: Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107895198164234240
+    m_Key: Motion Tracker App
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147086275261165568
+    m_Key: Return Main Sence
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110429510247952384
+    m_Key: Numbers+Symbols
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94854851167301642
+    m_Key: Option A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97480137952243712
+    m_Key: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97137617045073920
+    m_Key: PICO Avatar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94854851167301644
+    m_Key: PICO Motion Tracker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94854851167301652
+    m_Key: Position
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94854851167301632
+    m_Key: Press [Space] For more info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98927853425176576
+    m_Key: Ray Interactor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94854851167301645
+    m_Key: Recording
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97480215802720256
+    m_Key: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110148320609742848
+    m_Key: Rise Camera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94854851167301648
+    m_Key: 'Score:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94854851167301637
+    m_Key: Sensitivity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110140170812829696
+    m_Key: Show Camera Gizmo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105420324904677376
+    m_Key: Show Joint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105444339740356608
+    m_Key: Skeleton Warrior
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94854851167301647
+    m_Key: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94854851167301650
+    m_Key: Stepping effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94854851167301655
+    m_Key: Stepping Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 144575228608442368
+    m_Key: Stepping Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94854851167301636
+    m_Key: Stop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107303622169899008
+    m_Key: Street Boy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107684393384718336
+    m_Key: The current tracker is in Body Tracking mode. If you want to experience
+      Independent Tracking mode, please jump to the Settings page of the Motion tracker
+      APP to set it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107677960714891264
+    m_Key: The current tracker is in Independent Tracking mode. If you want to experience
+      Body Tracking mode, please jump to the Settings page of the Motion tracker
+      APP to set it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94854851167301634
+    m_Key: This 'earth shatter' effect is a n example of multiple particle systems
+      worknig together to make a magic effect that could be used in a game.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94904144343379968
+    m_Key: Toe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107174064175230976
+    m_Key: 'Tracker Type:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107215753849909248
+    m_Key: Tracking State
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107181624345276416
+    m_Key: Uncalibrated
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104699887438573568
+    m_Key: User Height
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94854851167301651
+    m_Key: Video  Recording
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147087992707018752
+    m_Key: Read File
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152833204674818048
+    m_Key: VST Model Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152833313533784064
+    m_Key: Open VST Model
+    m_Metadata:
+      m_Items: []
+  - m_Id: 153634977954066432
+    m_Key: Replay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 153688739506745344
+    m_Key: Audio Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 153689013398990848
+    m_Key: Model
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156144032727625728
+    m_Key: Motion Tracker Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156146853883604992
+    m_Key: Motion Tracker Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156149771688931328
+    m_Key: Table Tennis Bats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156149841494732800
+    m_Key: Baseball Bat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156149978577170432
+    m_Key: Tennis Racket
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156164231333867520
+    m_Key: ToyGun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156164516320047104
+    m_Key: Toy Car
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156164860726931456
+    m_Key: Vase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156170742151966720
+    m_Key: Offset information
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156173092086280192
+    m_Key: Position Offset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156174246983692288
+    m_Key: ' Rotation Offset'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156175952853266432
+    m_Key: Manual Calibration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156176024114491392
+    m_Key: Restore Defaults
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156183451639672832
+    m_Key: After starting manual calibration, the model position is fixed, move the
+      Tracker to a position that matches reality, and then end the calibration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156217677508440064
+    m_Key: Please fix the auxiliary Tracker in the correct position and click Manual
+      calibration. During calibration, make sure that both the primary and auxiliary
+      trackers are in view, and then end the calibration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 157253464572227584
+    m_Key: Assisted positioning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 157584030169493504
+    m_Key: Default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 157640151269830656
+    m_Key: Show Trakcer Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 174987493920665600
+    m_Key: Coke Can
+    m_Metadata:
+      m_Items: []
+  - m_Id: 175800202224398336
+    m_Key: Stepping Event
+    m_Metadata:
+      m_Items: []
+  - m_Id: 182632477377359872
+    m_Key: Recorded Data
+    m_Metadata:
+      m_Items: []
+  - m_Id: 182633411159453696
+    m_Key: Return
+    m_Metadata:
+      m_Items: []
+  - m_Id: 231211055709151232
+    m_Key: End calibration
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3650490252783517702
+  references:
+    version: 2
+    RefIds:
+    - rid: 3650490252783517702
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1672047917530

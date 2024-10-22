@@ -1,0 +1,1318 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6726801985576580424
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -9036340859635568719, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Spine1_L_Skin
+      objectReference: {fileID: 0}
+    - target: {fileID: -8785659630934180954, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Toes_R_mid_skin
+      objectReference: {fileID: 0}
+    - target: {fileID: -8682935593125779969, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: ThumbFinger1_L
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8622550029879633631, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Upleg_R_skin
+      objectReference: {fileID: 0}
+    - target: {fileID: -8562643018209735843, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Eye_L_Geo
+      objectReference: {fileID: 0}
+    - target: {fileID: -8562643018209735843, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: -8558570917662744576, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: LOD2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8558570917662744576, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8442951138135785311, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Leg_L_skin
+      objectReference: {fileID: 0}
+    - target: {fileID: -7968017563027128039, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Breathe_skin
+      objectReference: {fileID: 0}
+    - target: {fileID: -7959980550952048999, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Knee_R_skin
+      objectReference: {fileID: 0}
+    - target: {fileID: -7846735155139656220, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Foot_R
+      objectReference: {fileID: 0}
+    - target: {fileID: -7846735155139656220, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: -7778593139769222758, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: MESH
+      objectReference: {fileID: 0}
+    - target: {fileID: -7593861410676089104, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: ForeArm_L_skin
+      objectReference: {fileID: 0}
+    - target: {fileID: -7579056290432358101, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Hand_R_skin
+      objectReference: {fileID: 0}
+    - target: {fileID: -7560281951485025204, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: PinkyFinger0_R
+      objectReference: {fileID: 0}
+    - target: {fileID: -7532861960077582524, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: MiddleFinger0_L
+      objectReference: {fileID: 0}
+    - target: {fileID: -7478126811843098475, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Spine1_Back_skin
+      objectReference: {fileID: 0}
+    - target: {fileID: -7351741624257618893, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: MESH
+      objectReference: {fileID: 0}
+    - target: {fileID: -7329193704564802124, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: MiddleFinger3_R
+      objectReference: {fileID: 0}
+    - target: {fileID: -7310690977378637713, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Foot_L
+      objectReference: {fileID: 0}
+    - target: {fileID: -7310690977378637713, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: -7283194090620185250, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Spine1
+      objectReference: {fileID: 0}
+    - target: {fileID: -7221650713657125058, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Eyelash_Geo
+      objectReference: {fileID: 0}
+    - target: {fileID: -7221650713657125058, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: -7174466992213115014, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: ForeArm_R_twist
+      objectReference: {fileID: 0}
+    - target: {fileID: -6997866879037607927, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Neck
+      objectReference: {fileID: 0}
+    - target: {fileID: -6979843891133057386, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: ToesEnd_R
+      objectReference: {fileID: 0}
+    - target: {fileID: -6947851501098140059, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Spine2_skin
+      objectReference: {fileID: 0}
+    - target: {fileID: -6859630668262262522, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: DeformationSystem
+      objectReference: {fileID: 0}
+    - target: {fileID: -6665325500737600184, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: EyebrowWhite_Geo
+      objectReference: {fileID: 0}
+    - target: {fileID: -6665325500737600184, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: -6128304180771126694, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: -5685075908077478520, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: EyebrowWhite_Geo
+      objectReference: {fileID: 0}
+    - target: {fileID: -5685075908077478520, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: -5494000933099867412, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: IndexFinger2_L
+      objectReference: {fileID: 0}
+    - target: {fileID: -5360546272681484808, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: ToesEnd_L
+      objectReference: {fileID: 0}
+    - target: {fileID: -5335365245573879009, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: ThumbFinger3_R
+      objectReference: {fileID: 0}
+    - target: {fileID: -5302351136377374595, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: -5283632140271580789, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: PinkyFinger0_L
+      objectReference: {fileID: 0}
+    - target: {fileID: -5188439341723813884, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: IndexFinger4_L
+      objectReference: {fileID: 0}
+    - target: {fileID: -5015155628133947737, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Head_Tooth_Dn_Geo
+      objectReference: {fileID: 0}
+    - target: {fileID: -5015155628133947737, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: -4998016556534143810, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: IndexFinger1_R
+      objectReference: {fileID: 0}
+    - target: {fileID: -4995650738096090591, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: BraEnd_L
+      objectReference: {fileID: 0}
+    - target: {fileID: -4899934460163821528, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: ForeArm_L_mid_skin
+      objectReference: {fileID: 0}
+    - target: {fileID: -4877666479369771655, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Shoulder_R_skin
+      objectReference: {fileID: 0}
+    - target: {fileID: -4853339336917862191, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Eye_L_Geo
+      objectReference: {fileID: 0}
+    - target: {fileID: -4853339336917862191, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4845163318424448194, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Spine2
+      objectReference: {fileID: 0}
+    - target: {fileID: -4615336563575284441, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Head_Tongue_Geo
+      objectReference: {fileID: 0}
+    - target: {fileID: -4615336563575284441, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: -4443034539918114562, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Foot_L_mid_skin
+      objectReference: {fileID: 0}
+    - target: {fileID: -4299086345124344361, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Arm_R
+      objectReference: {fileID: 0}
+    - target: {fileID: -4186413196946464411, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: IndexFinger3_L
+      objectReference: {fileID: 0}
+    - target: {fileID: -4166362792571665986, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Toes_L_mid_skin
+      objectReference: {fileID: 0}
+    - target: {fileID: -4160581406616157092, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Spine1_R_Skin
+      objectReference: {fileID: 0}
+    - target: {fileID: -4071745018838692496, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: PinkyFinger1_L
+      objectReference: {fileID: 0}
+    - target: {fileID: -3971061923513849334, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: ThumbFinger2_R
+      objectReference: {fileID: 0}
+    - target: {fileID: -3703910294627377387, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: RingFinger3_R
+      objectReference: {fileID: 0}
+    - target: {fileID: -3621388865888948238, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: PinkyFinger4_L
+      objectReference: {fileID: 0}
+    - target: {fileID: -3163762732249059718, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Eyelash_Geo
+      objectReference: {fileID: 0}
+    - target: {fileID: -3163762732249059718, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: -3023893511493974131, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: BraEnd_R
+      objectReference: {fileID: 0}
+    - target: {fileID: -3014376347648361780, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Head
+      objectReference: {fileID: 0}
+    - target: {fileID: -2747394189610640517, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Arm_L_mid_skin
+      objectReference: {fileID: 0}
+    - target: {fileID: -2609183073483687803, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Bra_R
+      objectReference: {fileID: 0}
+    - target: {fileID: -2375196595870375115, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Arm_L_mus_skin
+      objectReference: {fileID: 0}
+    - target: {fileID: -2298784114246425205, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Body_Geo
+      objectReference: {fileID: 0}
+    - target: {fileID: -2232568801996919463, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: ThumbFinger4_R
+      objectReference: {fileID: 0}
+    - target: {fileID: -2072335309195107498, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: IndexFinger1_L
+      objectReference: {fileID: 0}
+    - target: {fileID: -2050482752767640731, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: PinkyFinger1_R
+      objectReference: {fileID: 0}
+    - target: {fileID: -1884933918851260166, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Head_Tooth_Up_Geo
+      objectReference: {fileID: 0}
+    - target: {fileID: -1884933918851260166, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1866456319011992883, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: IndexFinger0_R
+      objectReference: {fileID: 0}
+    - target: {fileID: -1836451612824820845, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Shoulder_R
+      objectReference: {fileID: 0}
+    - target: {fileID: -1777821300215923017, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: IndexFinger4_R
+      objectReference: {fileID: 0}
+    - target: {fileID: -1741175551902129758, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: EyeJoint_L
+      objectReference: {fileID: 0}
+    - target: {fileID: -1734064389359204597, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: ThumbFinger2_L
+      objectReference: {fileID: 0}
+    - target: {fileID: -1629841253930533206, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Upleg_R
+      objectReference: {fileID: 0}
+    - target: {fileID: -1557233683172864945, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1381486431808194221, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: RingFinger3_L
+      objectReference: {fileID: 0}
+    - target: {fileID: -1359130175641374382, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Eye_R_Geo
+      objectReference: {fileID: 0}
+    - target: {fileID: -1359130175641374382, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1285597670666433146, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: ThumbFinger1_R
+      objectReference: {fileID: 0}
+    - target: {fileID: -1170130006716895512, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: PinkyFinger2_L
+      objectReference: {fileID: 0}
+    - target: {fileID: -1072202116892302710, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: LOD0
+      objectReference: {fileID: 0}
+    - target: {fileID: -933493696908772961, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Hand_L_skin
+      objectReference: {fileID: 0}
+    - target: {fileID: -927532285181383221, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Body_Geo
+      objectReference: {fileID: 0}
+    - target: {fileID: -877200769288931847, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: RingFinger2_R
+      objectReference: {fileID: 0}
+    - target: {fileID: -696003675423104210, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: MiddleFinger1_R
+      objectReference: {fileID: 0}
+    - target: {fileID: -658172900279220284, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Spine1_Front_skin
+      objectReference: {fileID: 0}
+    - target: {fileID: -558950965509934335, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Chest
+      objectReference: {fileID: 0}
+    - target: {fileID: -508331342229207140, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: MODEL
+      objectReference: {fileID: 0}
+    - target: {fileID: -504161175642031355, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: PinkyFinger2_R
+      objectReference: {fileID: 0}
+    - target: {fileID: -293820469745066651, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Eye_R_Geo
+      objectReference: {fileID: 0}
+    - target: {fileID: -293820469745066651, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: -187350223511608935, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: IndexFinger3_R
+      objectReference: {fileID: 0}
+    - target: {fileID: -177687461364936073, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Leg_R
+      objectReference: {fileID: 0}
+    - target: {fileID: 324413204417688671, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: FaceJoint_M
+      objectReference: {fileID: 0}
+    - target: {fileID: 337521019850366530, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: GlobalScale
+      objectReference: {fileID: 0}
+    - target: {fileID: 495807061377122499, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Head_Tooth_Dn_Geo
+      objectReference: {fileID: 0}
+    - target: {fileID: 495807061377122499, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 755473012540622645, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: ForeArm_L_twist
+      objectReference: {fileID: 0}
+    - target: {fileID: 830969752031676561, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: MESH
+      objectReference: {fileID: 0}
+    - target: {fileID: 888384585177719248, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Foot_Skin_R
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Street Boy
+      objectReference: {fileID: 0}
+    - target: {fileID: 992619664160290540, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Hand_L
+      objectReference: {fileID: 0}
+    - target: {fileID: 1280642463948658403, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Toes_L
+      objectReference: {fileID: 0}
+    - target: {fileID: 1294994485656191342, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: EyebrowWhite_Geo
+      objectReference: {fileID: 0}
+    - target: {fileID: 1294994485656191342, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1328725732143258191, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Leg_R_mid_skin
+      objectReference: {fileID: 0}
+    - target: {fileID: 1416200697855364357, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: MiddleFinger3_L
+      objectReference: {fileID: 0}
+    - target: {fileID: 1787097500512956651, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Upleg_L
+      objectReference: {fileID: 0}
+    - target: {fileID: 1929690293831019327, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: ForeArm_R
+      objectReference: {fileID: 0}
+    - target: {fileID: 2038705271230267545, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: PinkyFinger3_R
+      objectReference: {fileID: 0}
+    - target: {fileID: 2051953251586908229, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Leg_R_skin
+      objectReference: {fileID: 0}
+    - target: {fileID: 2069871956635197851, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Buttocks_Skin_L
+      objectReference: {fileID: 0}
+    - target: {fileID: 2145035464428668511, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Eye_L_Geo
+      objectReference: {fileID: 0}
+    - target: {fileID: 2145035464428668511, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 2227437263727884611, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Body_Geo
+      objectReference: {fileID: 0}
+    - target: {fileID: 2260380572480648720, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: IndexFinger0_L
+      objectReference: {fileID: 0}
+    - target: {fileID: 2304076529871421878, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: RingFinger0_R
+      objectReference: {fileID: 0}
+    - target: {fileID: 2321540124033056549, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: MiddleFinger4_L
+      objectReference: {fileID: 0}
+    - target: {fileID: 2529994125502278918, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: MiddleFinger0_R
+      objectReference: {fileID: 0}
+    - target: {fileID: 2547596114858139536, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2554814038880925746, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Head_Tooth_Up_Geo
+      objectReference: {fileID: 0}
+    - target: {fileID: 2554814038880925746, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 2570561270749742066, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Arm_R_twist
+      objectReference: {fileID: 0}
+    - target: {fileID: 2602993187242463326, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Toes_R
+      objectReference: {fileID: 0}
+    - target: {fileID: 2785050809608002776, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Foot_Skin_L
+      objectReference: {fileID: 0}
+    - target: {fileID: 2948646171561889882, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: EyeJoint_R
+      objectReference: {fileID: 0}
+    - target: {fileID: 2964159014085119397, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Arm_R_mus_skin
+      objectReference: {fileID: 0}
+    - target: {fileID: 3056530199655939283, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: RingFinger1_L
+      objectReference: {fileID: 0}
+    - target: {fileID: 3373063124891578400, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: RingFinger4_L
+      objectReference: {fileID: 0}
+    - target: {fileID: 3566484304295690690, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Knee_L_skin
+      objectReference: {fileID: 0}
+    - target: {fileID: 3603967336577286848, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Head_Geo
+      objectReference: {fileID: 0}
+    - target: {fileID: 3603967336577286848, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 3688179887750757416, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Buttocks_Skin_R
+      objectReference: {fileID: 0}
+    - target: {fileID: 3753191532650513293, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Shoulder_L_skin
+      objectReference: {fileID: 0}
+    - target: {fileID: 3784047164730665776, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Spine1_Skin
+      objectReference: {fileID: 0}
+    - target: {fileID: 3811934204873676588, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: RingFinger1_R
+      objectReference: {fileID: 0}
+    - target: {fileID: 3881114677693961718, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Eyelash_Geo
+      objectReference: {fileID: 0}
+    - target: {fileID: 3881114677693961718, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3910018903079373949, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Head_Tooth_Dn_Geo
+      objectReference: {fileID: 0}
+    - target: {fileID: 3910018903079373949, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4038277314531591814, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: RingFinger0_L
+      objectReference: {fileID: 0}
+    - target: {fileID: 4067487629353452371, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Head_Geo
+      objectReference: {fileID: 0}
+    - target: {fileID: 4067487629353452371, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473294736066773767, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Arm_L
+      objectReference: {fileID: 0}
+    - target: {fileID: 4498337255204551450, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Head_Tongue_Geo
+      objectReference: {fileID: 0}
+    - target: {fileID: 4498337255204551450, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 4550251484832050310, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: RingFinger4_R
+      objectReference: {fileID: 0}
+    - target: {fileID: 4634990728134908264, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: PinkyFinger4_R
+      objectReference: {fileID: 0}
+    - target: {fileID: 4690262467229789989, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: MiddleFinger2_L
+      objectReference: {fileID: 0}
+    - target: {fileID: 4813833072817166018, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: ThumbFinger5_R
+      objectReference: {fileID: 0}
+    - target: {fileID: 4879174424569662365, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: ThumbFinger4_L
+      objectReference: {fileID: 0}
+    - target: {fileID: 5173332852438266921, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: RingFinger2_L
+      objectReference: {fileID: 0}
+    - target: {fileID: 5257226730157038651, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: IndexFinger2_R
+      objectReference: {fileID: 0}
+    - target: {fileID: 5448058287928598863, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: ForeArm_R_skin
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467522431372351265, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Upleg_L_skin
+      objectReference: {fileID: 0}
+    - target: {fileID: 5621767127001700622, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: ForeArm_R_mid_skin
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634892800332750375, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: MiddleFinger2_R
+      objectReference: {fileID: 0}
+    - target: {fileID: 5881464323054873938, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Arm_L_skin
+      objectReference: {fileID: 0}
+    - target: {fileID: 6122520169851840592, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Leg_L
+      objectReference: {fileID: 0}
+    - target: {fileID: 6324412012393823552, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Neck_skin
+      objectReference: {fileID: 0}
+    - target: {fileID: 6469144571973501448, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: MiddleFinger4_R
+      objectReference: {fileID: 0}
+    - target: {fileID: 6844967811259026693, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Eye_R_Geo
+      objectReference: {fileID: 0}
+    - target: {fileID: 6844967811259026693, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 7081683312517209540, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Hand_R
+      objectReference: {fileID: 0}
+    - target: {fileID: 7223001582903493927, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Root
+      objectReference: {fileID: 0}
+    - target: {fileID: 7406727201331558480, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Bra_L
+      objectReference: {fileID: 0}
+    - target: {fileID: 7661094084529581336, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Chest_skin
+      objectReference: {fileID: 0}
+    - target: {fileID: 7722475149252776828, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Arm_L_twist
+      objectReference: {fileID: 0}
+    - target: {fileID: 7897525229473624256, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Foot_R_mid_skin
+      objectReference: {fileID: 0}
+    - target: {fileID: 8008732090119084411, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Arm_R_skin
+      objectReference: {fileID: 0}
+    - target: {fileID: 8058604913084517525, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: PinkyFinger3_L
+      objectReference: {fileID: 0}
+    - target: {fileID: 8154678640392254105, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Arm_R_mid_skin
+      objectReference: {fileID: 0}
+    - target: {fileID: 8175190994001337183, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Head_Tooth_Up_Geo
+      objectReference: {fileID: 0}
+    - target: {fileID: 8175190994001337183, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 8330161984620171320, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Hips
+      objectReference: {fileID: 0}
+    - target: {fileID: 8418037530771110196, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: RIG
+      objectReference: {fileID: 0}
+    - target: {fileID: 8607199223526395944, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Shoulder_L
+      objectReference: {fileID: 0}
+    - target: {fileID: 8631465905848874484, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: ForeArm_L
+      objectReference: {fileID: 0}
+    - target: {fileID: 8716276762300713689, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Head_Tongue_Geo
+      objectReference: {fileID: 0}
+    - target: {fileID: 8716276762300713689, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8722931572013852187, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: ThumbFinger3_L
+      objectReference: {fileID: 0}
+    - target: {fileID: 8732380738393791210, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: LOD1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8732380738393791210, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8982392578957939680, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Leg_L_mid_skin
+      objectReference: {fileID: 0}
+    - target: {fileID: 9024863318511669016, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: ThumbFinger5_L
+      objectReference: {fileID: 0}
+    - target: {fileID: 9035279269721299287, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: MiddleFinger1_L
+      objectReference: {fileID: 0}
+    - target: {fileID: 9177084746956161421, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Head_Geo
+      objectReference: {fileID: 0}
+    - target: {fileID: 9177084746956161421, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9177084746956161421, guid: 027cf543f6e9911438581c5ef39df8cc,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 027cf543f6e9911438581c5ef39df8cc, type: 3}
+--- !u!4 &4282309638213173 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6725370098638584701, guid: 027cf543f6e9911438581c5ef39df8cc,
+    type: 3}
+  m_PrefabInstance: {fileID: 6726801985576580424}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &190844156558549224 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -2306857326817143392, guid: 027cf543f6e9911438581c5ef39df8cc,
+    type: 3}
+  m_PrefabInstance: {fileID: 6726801985576580424}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1455577046981479027 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5289857474837626683, guid: 027cf543f6e9911438581c5ef39df8cc,
+    type: 3}
+  m_PrefabInstance: {fileID: 6726801985576580424}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &3417309221857817972 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8230009897529327676, guid: 027cf543f6e9911438581c5ef39df8cc,
+    type: 3}
+  m_PrefabInstance: {fileID: 6726801985576580424}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &3461920163729801409 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7877166077385356681, guid: 027cf543f6e9911438581c5ef39df8cc,
+    type: 3}
+  m_PrefabInstance: {fileID: 6726801985576580424}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &3657043131290522675 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -1181619178319797893, guid: 027cf543f6e9911438581c5ef39df8cc,
+    type: 3}
+  m_PrefabInstance: {fileID: 6726801985576580424}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &4056663149837689663 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -1939275314528971145, guid: 027cf543f6e9911438581c5ef39df8cc,
+    type: 3}
+  m_PrefabInstance: {fileID: 6726801985576580424}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &4139133440246210152 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -2005437555998201056, guid: 027cf543f6e9911438581c5ef39df8cc,
+    type: 3}
+  m_PrefabInstance: {fileID: 6726801985576580424}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &4255118420860511597 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7374452442499616805, guid: 027cf543f6e9911438581c5ef39df8cc,
+    type: 3}
+  m_PrefabInstance: {fileID: 6726801985576580424}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &4377498949847766797 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -2190325164573629883, guid: 027cf543f6e9911438581c5ef39df8cc,
+    type: 3}
+  m_PrefabInstance: {fileID: 6726801985576580424}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &4886306262973222869 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -7019489574407226723, guid: 027cf543f6e9911438581c5ef39df8cc,
+    type: 3}
+  m_PrefabInstance: {fileID: 6726801985576580424}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &4925290072225056270 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1801514607975904070, guid: 027cf543f6e9911438581c5ef39df8cc,
+    type: 3}
+  m_PrefabInstance: {fileID: 6726801985576580424}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &5157444178059001202 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -7293426886301726662, guid: 027cf543f6e9911438581c5ef39df8cc,
+    type: 3}
+  m_PrefabInstance: {fileID: 6726801985576580424}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &5175009316815396135 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -7310690977378637713, guid: 027cf543f6e9911438581c5ef39df8cc,
+    type: 3}
+  m_PrefabInstance: {fileID: 6726801985576580424}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &1744901440
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5175009316815396135}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.06, y: 0.26, z: 0.08}
+  m_Center: {x: 0.067, y: -0.06, z: 0}
+--- !u!1 &5638697186141925548 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -7846735155139656220, guid: 027cf543f6e9911438581c5ef39df8cc,
+    type: 3}
+  m_PrefabInstance: {fileID: 6726801985576580424}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &1744901442
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5638697186141925548}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.06, y: 0.26, z: 0.08}
+  m_Center: {x: -0.067, y: 0.06, z: 0}
+--- !u!1 &5880310325301086233 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 027cf543f6e9911438581c5ef39df8cc,
+    type: 3}
+  m_PrefabInstance: {fileID: 6726801985576580424}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1507790951
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5880310325301086233}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeaec50259069b240991a907003813bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BonesList:
+  - {fileID: 4925290072225056270}
+  - {fileID: 190844156558549224}
+  - {fileID: 6977292215092927821}
+  - {fileID: 7573908607130074720}
+  - {fileID: 7325883099857262125}
+  - {fileID: 8416195873214188613}
+  - {fileID: 4255118420860511597}
+  - {fileID: 8609030595394904803}
+  - {fileID: 4377498949847766797}
+  - {fileID: 1455577046981479027}
+  - {fileID: 3657043131290522675}
+  - {fileID: 5157444178059001202}
+  - {fileID: 6071857391663777384}
+  - {fileID: 8362840839785475303}
+  - {fileID: 7710225256395532363}
+  - {fileID: 6774665661748015634}
+  - {fileID: 7093930360155662640}
+  - {fileID: 3417309221857817972}
+  - {fileID: 4886306262973222869}
+  - {fileID: 4056663149837689663}
+  - {fileID: 4282309638213173}
+  - {fileID: 3461920163729801409}
+  - {fileID: 7040196619107908333}
+  - {fileID: 9207046925140491166}
+  leftEye: {fileID: 4139133440246210152}
+  avatarHeight: 170
+  soleHeight: 0.022
+  SkeletonLens:
+  - 0.2
+  - 0.092087455
+  - 0.40043613
+  - 0.06686399
+  - 0.39481002
+  - 0.45097953
+  - 0.10346118
+  - 0.28682625
+  - 0.24007711
+  - 0.20220341
+  - 0.169
+  otherMeshRenderers: []
+  hightSphere:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+--- !u!4 &6071857391663777384 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8567547553248431328, guid: 027cf543f6e9911438581c5ef39df8cc,
+    type: 3}
+  m_PrefabInstance: {fileID: 6726801985576580424}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &6774665661748015634 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8980718330676918438, guid: 027cf543f6e9911438581c5ef39df8cc,
+    type: 3}
+  m_PrefabInstance: {fileID: 6726801985576580424}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &6977292215092927821 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4435540447868839941, guid: 027cf543f6e9911438581c5ef39df8cc,
+    type: 3}
+  m_PrefabInstance: {fileID: 6726801985576580424}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &7040196619107908333 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4389227613122072485, guid: 027cf543f6e9911438581c5ef39df8cc,
+    type: 3}
+  m_PrefabInstance: {fileID: 6726801985576580424}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &7093930360155662640 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -4672252789269668744, guid: 027cf543f6e9911438581c5ef39df8cc,
+    type: 3}
+  m_PrefabInstance: {fileID: 6726801985576580424}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &7325883099857262125 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -5120411247620611227, guid: 027cf543f6e9911438581c5ef39df8cc,
+    type: 3}
+  m_PrefabInstance: {fileID: 6726801985576580424}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &7573908607130074720 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -5457927908940199128, guid: 027cf543f6e9911438581c5ef39df8cc,
+    type: 3}
+  m_PrefabInstance: {fileID: 6726801985576580424}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &7710225256395532363 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3916548109040901379, guid: 027cf543f6e9911438581c5ef39df8cc,
+    type: 3}
+  m_PrefabInstance: {fileID: 6726801985576580424}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &8362840839785475303 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2978183011694401967, guid: 027cf543f6e9911438581c5ef39df8cc,
+    type: 3}
+  m_PrefabInstance: {fileID: 6726801985576580424}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &8416195873214188613 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2996638996318484749, guid: 027cf543f6e9911438581c5ef39df8cc,
+    type: 3}
+  m_PrefabInstance: {fileID: 6726801985576580424}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &8609030595394904803 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3036285360449820587, guid: 027cf543f6e9911438581c5ef39df8cc,
+    type: 3}
+  m_PrefabInstance: {fileID: 6726801985576580424}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &9207046925140491166 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2493981138351476438, guid: 027cf543f6e9911438581c5ef39df8cc,
+    type: 3}
+  m_PrefabInstance: {fileID: 6726801985576580424}
+  m_PrefabAsset: {fileID: 0}
