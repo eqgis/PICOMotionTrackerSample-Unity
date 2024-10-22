@@ -16,7 +16,7 @@ The PICO Motion Tracking Sample is a developer sample showcasing features using 
 
 ## Learn more
 
-For detailed documentation of the sample, refer to [this article]().
+For detailed documentation of the sample, refer to [this article](https://developer.picoxr.com/document/unity/motion-tracking-sample/).
 
 ## LICENSE
 This project is licensed under the [MIT License](./License.md).
