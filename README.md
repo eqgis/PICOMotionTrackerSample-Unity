@@ -1,6 +1,8 @@
 # PICO MotionTracking Sample
 English | [中文README](./README.zh_CN.md)
 
+![Model](https://github.com/Pico-Developer/PICOMotionTrackerSample-Unity/blob/main/pico-motion-tracker-sample.jpg)
+
 ## Development environment
 
 - SDK version: 3.0.0
