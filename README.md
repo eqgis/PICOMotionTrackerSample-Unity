@@ -1,4 +1,4 @@
-# PICO MotionTracking Sample
+# PICO Motion Tracker Sample
 English | [中文README](./README.zh_CN.md)
 
 ![Model](https://github.com/Pico-Developer/PICOMotionTrackerSample-Unity/blob/main/pico-motion-tracker-sample.jpg)
