@@ -15,6 +15,9 @@ PICO 运动追踪示例是面向开发者展示使用 PICO 体感追踪器进行
 - App structure: 64-bit
 - Avatar SDK 版本: 2.0.0
 
+## 获取示例
+请使用 git clone 而不是下载 zip 文件来获得本示例工程。工程包含lfs 较大的资产文件，下载 zip 可能导致工程不完整。
+
 ## 了解更多
 
 有关示例的详细文档和用户指南，请参阅[这篇文章](https://developer-cn.picoxr.com/document/unity/pico-motion-tracking-sample/)。
